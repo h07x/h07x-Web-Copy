@@ -1,10 +1,10 @@
-h07x | Web Cloner 🌐
+# h07x | Web Cloner 🌐
 
 A Website Cloning Tool by h07x
 
 h07x Web Cloner is a Python-based tool designed to clone website frontends and available assets, preview cloned pages locally, and access generated source files.
 
-✨ FEATURES
+# ✨ FEATURES
 
 - 🌐 Website frontend cloning
 - 🎨 Asset retrieval
